@@ -1,0 +1,6 @@
+{
+  "name": "Shreyas Chaturvedi - Personal Cinematic Portfolio",
+  "description": "Official personal portfolio of Shreyas Chaturvedi featuring programming, web development, AI, robotics, music player, interactive terminal, and virtual piano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
